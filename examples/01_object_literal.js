@@ -6,7 +6,7 @@ var obj = {};
 var car = {
 	brand : 'BMW',
 	xx : 'ccc',
-	ss : function () { // when a function is in an object like this it is called a method
+	ss : function () { 
 		return this.brand;
 	},
 	aa : {
