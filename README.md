@@ -7,7 +7,9 @@ Covers:
 
 ## Installation
 
-<pre> git clone https://github.com/keanodejs/03_object_examples_and_exercises.git</pre>
+<pre> git clone https://github.com/keanodejs/03_object_examples_and_exercises.git
+
+git remote add origin https://github.com/keanodejs/03_object_examples_and_exercises.git</pre>
 
 ## Credits
 
